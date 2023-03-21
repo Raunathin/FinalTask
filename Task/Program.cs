@@ -28,4 +28,5 @@ void PrintArray(string[] array)
         System.Console.WriteLine($"{array[i]}");
     }
 }
-
+GetString(array1, array2);
+PrintArray(array2);
